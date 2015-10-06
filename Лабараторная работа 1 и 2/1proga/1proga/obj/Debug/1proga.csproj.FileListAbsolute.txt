@@ -1,0 +1,6 @@
+C:\Users\Администратор\Desktop\1proga\1proga\bin\Debug\1proga.exe.config
+C:\Users\Администратор\Desktop\1proga\1proga\obj\Debug\1proga.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\1proga\1proga\bin\Debug\1proga.exe
+C:\Users\Администратор\Desktop\1proga\1proga\bin\Debug\1proga.pdb
+C:\Users\Администратор\Desktop\1proga\1proga\obj\Debug\1proga.exe
+C:\Users\Администратор\Desktop\1proga\1proga\obj\Debug\1proga.pdb
